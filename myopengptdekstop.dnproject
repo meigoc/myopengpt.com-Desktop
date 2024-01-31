@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project author="woerc" authorOS="Windows 11" createdAt="1706647514867" ideName="DevelNext" ideVersion="16.7.0" ideVersionHash="2017103112" name="myopengptdekstop" packageName="meigo" template="ide\project\templates\DefaultGuiProjectTemplate" updatedAt="1706651008772">
+  <tree>
+    <expanded>
+      <path src=""/>
+      <path src="/src"/>
+      <path src="/src/.theme"/>
+      <path src="/src/meigo"/>
+      <path src="/src/meigo/forms"/>
+      <path src="/src/meigo/modules"/>
+    </expanded>
+  </tree>
+  <openedFiles>
+    <file src="myopengptdekstop.dnproject"/>
+    <file src="src/meigo/modules/MainModule.php"/>
+    <file src="src/meigo/forms/MainForm.php"/>
+    <file src="src/meigo/forms/loadingpage.php"/>
+    <file src="src/meigo/forms/form.php"/>
+    <file selected="1" src="src/meigo/modules/form.php"/>
+  </openedFiles>
+  <files/>
+  <behaviours>
+    <behaviour class="ide\project\behaviours\BundleProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\PhpProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\JavaPlatformBehaviour"/>
+    <behaviour class="ide\project\behaviours\GuiFrameworkProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\RunBuildProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\ShareProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\BackupProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\GradleProjectBehaviour"/>
+  </behaviours>
+</project>
